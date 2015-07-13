@@ -1,26 +1,11 @@
-ZF2 Form Generator Application
+Form Creator
 ==============================
-
 Introduction
 ------------
-Simple form generator. head to [Zend Framework 2 Form Generator](http://zend-form-generator.123easywebsites.com/) page
 
-Modules
--------
-* Form Generator
-* Application (main layout)
-* [Zend Framework 2](https://github.com/zendframework/zf2) (latest master)
-* [ZendDeveloperTools](https://github.com/zendframework/ZendDeveloperTools) (latest master)
-* [BjyProfiler](https://github.com/bjyoungblood/BjyProfiler) (latest master)
+A simple Form Creator where you can add form components with jQuery, get which components were added, persist them and generate  Zend Framework 2 forms and validators to be rendered by your application
 
-What is inside / working
-------------------------
 
-- Twitter Bootstrap
-- Master Layout
-- Form Creator
-
-Disclaimer
+Forked From
 ----------
-The module is in Alpha, some orrors might occur. This module is not necesarily made to be included in your application. 
-This git container is the entire form generator application that you can use localy and change some things. 
+[ZF2 Form Generator Application](https://github.com/patrioticcow/Zend-FormZF2 Form Generator Application)
