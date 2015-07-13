@@ -8,4 +8,4 @@ A simple Form Creator where you can add form components with jQuery, get which c
 
 Forked From
 ----------
-[ZF2 Form Generator Application](https://github.com/patrioticcow/Zend-FormZF2 Form Generator Application)
+[ZF2 Form Generator Application](https://github.com/patrioticcow/Zend-Form)
